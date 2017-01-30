@@ -1,0 +1,14 @@
+{
+  "name": "nodejsapi",
+  "version": "0.0.1",
+  "description": "NodeJs Test API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
